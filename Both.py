@@ -1,4 +1,4 @@
-''' Code from ROS2 Doc
+''' Code from ROS2 Docs
 Modifications by Briana Bouchard
 
 This code creates a publisher node and publishes a string to a topic with a counter every 0.5 seconds.
